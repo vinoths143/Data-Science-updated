@@ -4,3 +4,5 @@ Pytorch -   https://pytorch.org/?utm_source=Google&utm_medium=PaidSearch&utm_cam
 pytorch -  pip install torch==1.5.0+cpu torchvision==0.6.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 Tensorflow - pip install --user tensorflow==2.0.0 
 Tensorflow - conda create -n tf2 python=3.7
+https://tzutalin.github.io/labelImg/
+https://github.com/tzutalin/labelImg
