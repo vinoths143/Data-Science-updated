@@ -6,3 +6,4 @@ Tensorflow - pip install --user tensorflow==2.0.0
 Tensorflow - conda create -n tf2 python=3.7
 https://tzutalin.github.io/labelImg/
 https://github.com/tzutalin/labelImg
+https://c17hawke.github.io/tfod-setup/
