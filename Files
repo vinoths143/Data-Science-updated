@@ -9,3 +9,4 @@ https://github.com/tzutalin/labelImg
 2)inception: http://download.tensorflow.org/models/object_detection/faster_rcnn_inception_v2_coco_2018_01_28.tar.gz
 3)Install file and steps: https://c17hawke.github.io/tfod-setup/
 4)Image label :  https://tzutalin.github.io/labelImg/
+https://www.tensorflow.org/install/errors
