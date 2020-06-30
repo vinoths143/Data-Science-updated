@@ -10,3 +10,6 @@ https://github.com/tzutalin/labelImg
 3)Install file and steps: https://c17hawke.github.io/tfod-setup/
 4)Image label :  https://tzutalin.github.io/labelImg/
 https://www.tensorflow.org/install/errors
+remove Conda environment: conda env remove -n ENV_NAME
+conda create --name new_name --clone old_name
+conda remove --name old_name --all # or its alias: `conda env remove --name old_name`
