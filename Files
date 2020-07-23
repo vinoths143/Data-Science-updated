@@ -13,3 +13,11 @@ https://www.tensorflow.org/install/errors
 remove Conda environment: conda env remove -n ENV_NAME
 conda create --name new_name --clone old_name
 conda remove --name old_name --all # or its alias: `conda env remove --name old_name`
+
+https://medium.com/@whatdhack/reflections-on-non-maximum-suppression-nms-d2fce148ef0a
+
+https://www.kdnuggets.com/2019/12/pedestrian-detection-non-maximum-suppression-algorithm.html
+
+https://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/
+
+https://www.pyimagesearch.com/2015/02/16/faster-non-maximum-suppression-python/
